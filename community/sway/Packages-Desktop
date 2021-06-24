@@ -8,6 +8,7 @@ manjaro-sway/manjaro-sway-settings
 >extra kanshi # automatically load matching output profiles
 >extra autotiling # automated tiling
 >extra kitty # advanced terminal application
+>extra wl0clipboard # clipboard support for wayland
 
 # Wayland support
 xorg-xwayland # xorg-wayland bridge
